@@ -1,16 +1,5 @@
 site_mcollective
 
-This is the site_mcollective module.
+This is the site_mcollective module used in the tutorial at http://rnelson0.com/puppet-for-vsphere-admins/
 
-License
--------
-
-
-Contact
--------
-
-
-Support
--------
-
-Please log tickets and issues at our [Projects site](http://projects.example.com)
+This is **NOT** under active development.
